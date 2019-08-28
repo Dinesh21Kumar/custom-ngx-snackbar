@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+}
+ul {
+    display: inline-table;
+}
+li {
+    display: list-item;
+    padding: 5px;
+}
